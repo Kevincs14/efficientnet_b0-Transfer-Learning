@@ -1,4 +1,4 @@
-##iPhone Image Classifier (Transfer Learning)
+## iPhone Image Classifier (Transfer Learning)
 
 This project is me taking a real shot at learning PyTorch and applying transfer learning in a practical way.
 As a starting point, I built a simple image classification model that uses a pretrained EfficientNet-B0 to recognize whether an image contains an iPhone or not.
